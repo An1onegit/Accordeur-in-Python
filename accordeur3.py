@@ -36,4 +36,5 @@ def get_note_from_frequency(frequence):
     #retourne la note joué plus l'octave corréspondant (ex: Mi5)
     return note_name + str(octave)
 
+#On affiche la note trouvé avec la fonction
 print(get_note_from_frequency(max(f0_propre)))
