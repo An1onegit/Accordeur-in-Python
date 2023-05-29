@@ -40,3 +40,12 @@ def get_note_from_frequency(frequence):
 
 * La ligne `note_name = ...` récupère le nom de la note correspondant à l'indice note_index dans la liste note_names.
 * Enfin, la fonction retourne le nom de la note concaténé avec la valeur de l'octave convertie en chaîne de caractères.
+
+
+### Sources : 
+* https://fr.wikipedia.org/wiki/Note_de_musique
+* https://fr.wikipedia.org/wiki/Logarithme_binaire
+* https://librosa.org/doc/latest/index.html
+* https://numpy.org/
+* https://www.w3schools.com/
+* https://www.dcode.fr/logarithme
