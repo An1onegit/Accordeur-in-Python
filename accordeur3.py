@@ -1,6 +1,5 @@
 import librosa
 import numpy as np
-import math
 
 # Charger le fichier audio
 audio_file = "La4.wav"
